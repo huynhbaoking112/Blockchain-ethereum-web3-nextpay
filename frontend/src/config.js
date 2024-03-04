@@ -1,0 +1,2 @@
+
+export const NextPayContract="0xdE23399a4d9ebDC06D7A6959FCD7Ebc51E4C67Fe"
